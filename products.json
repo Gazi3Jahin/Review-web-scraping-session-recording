@@ -1,0 +1,22 @@
+[
+    [
+        "Product_Name",
+        "Price",
+        "Condition"
+    ],
+    [
+        "TV",
+        "52000",
+        "Fresh"
+    ],
+    [
+        "Laptop",
+        "50000",
+        "New"
+    ],
+    [
+        "AC",
+        "83000",
+        "Fresh"
+    ]
+]
